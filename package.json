@@ -8,12 +8,10 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"dependencies" :
-	{
-		"sqlite3" : "latest",
-		"express" : "latest",
-		"multer" : "latest",
-		"body-parser" : "latest"
+	"dependencies": {
+		"sqlite3": "latest",
+		"express": "latest",
+		"multer": "latest",
+		"body-parser": "latest"
 	}
-
 }
